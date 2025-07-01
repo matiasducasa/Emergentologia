@@ -1,0 +1,26 @@
+# CHECKLIST DIARIO
+
+- Guantes / Protección ocular / Camisolines
+- Aspiración armada
+  - Regulador de presión
+  - Vaso
+  - Tubuladura T63
+  - Sondas de aspiración
+- Tubos endotraqueales (TET) 7/7.5/8
+- Máscara laríngea (_debería tenerla enfermería_)
+- Cánula de Mayo 
+- Laringoscopio (chequeado, _en general lo tiene enfermería_)
+- Guía de eschman o mandril
+- Bolsa auto inflable (ambú) armado y probado
+- MR conectada al O2 / CN disponible
+- Máscara de NBZ conectada al aire comprimido
+- ARM armado
+  - Encendido en stand-by, enchufado y conectado a O2 y aire
+  - Prueba pasada (muchas veces ya realizada por kinesio)
+  - Tubuladuras y filtros conectados
+- Desfibrilador con chequeo realizado (1 dentro de SR, otro dentro de QX) y enchufado
+- Abocath 20-18-16-14
+- Baxter SF armados (con guía de suero y prolongador) al menos 2
+- Disponibles: DX5 y 10 / Ringer / Mannitol / Bicarbonato
+- Drogas: Adrenalina / Salbutamol / Noradrenalina / Hidrocortisona / Midazolam
+  - En heladera: Lorazepam / Propofol / Atracurio / succinilcolina
