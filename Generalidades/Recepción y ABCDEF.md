@@ -43,7 +43,7 @@ En la evaluación primaria buscamos identificar y resolver situaciones de riesgo
 - Circulación: controlar hemorragias y valorar pérdidas de volemia y perfusión; colocar acceso vascular y tomar laboratorio, monitorizar
 - Déficit neurológico: valorar el sensorio y signo de focalidad; medir glucemia capilar ("hemoglucotest" o HGT)
 - Exposición: revisar por completo al paciente, control térmico, y ver la Espalda (un lugar muchas veces olvidado)
-- Brindar un informe inicial a la familia y reinterrogar
+- "F": Brindar un informe inicial a la familia y reinterrogar
 
 La evaluación primaria se mantiene hasta lograr la estabilización inicial del paciente, implica un ciclo de identificar-tratar-reevaluar los problemas que van surgiendo en cada aspecto mencionado.
 
