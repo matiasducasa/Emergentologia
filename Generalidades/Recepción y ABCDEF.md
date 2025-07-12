@@ -54,3 +54,5 @@ Los complementarios, más allá del laboratorio inicial y la ecografía _POCUS_,
 El examen físico del paciente crítico debe ser: completo de la cabeza a los pies, priorizando y focalizando en los aspectos relevantes al problema central, y considerando los "elementos accesorios" (monitores, bombas y goteos, dispositivos de soporte). 
 
 Síntomas a interrogar a diario: dolor, sed (y valorar estado de hidratación), ansiedad, disnea, sueño/descanso. ( [Chanques et al 2015](https://doi.org/10.1007/s00134-015-3729-x) )
+
+Los complementarios forman parte de la evaluación secundaria, luego de haber completado los datos de la anamnesis y teniendo un examen físico completo, se solicitan en función de los hallazgos y sistemáticas, con el objetivo de responder preguntas puntuales... "El que no sabe lo que busca no entiende lo que encuentra".
